@@ -1,0 +1,35 @@
+Systems as Attack Vectors
+https://tryhackme.com/room/systemsattackvectors
+
+Can cyber attacks happen without victim intervention (Yea/Nay)?
+Yea
+
+Can a breach of just a single system lead to disastrous consequences (Yea/Nay)?
+Yea
+
+What is the term for a security flaw that can be exploited to breach a system?
+Vulnerability
+
+What is the name of the attack when malware comes from a trusted app or library?
+Supply Chain
+
+What is the CVE for the critical SharePoint vulnerability dubbed "ToolShell"?
+CVE-2025-53770
+
+How would you respond to a detected vulnerability on your system?
+patch
+
+Can a system patch or software update fix the misconfigurations (Yea/Nay)?
+Nay
+
+Which activity involves an authorized cyber attack to detect the misconfigurations?
+Penetration Testing
+
+What flag did you receive after completing the "Systems at Risk" challenge?
+THM{patch_or_reconfigure?}
+
+What flag did you receive after completing the "Remediation Plan" challenge?
+THM{best_systems_defender!}
+
+---
+If you found this useful, sign up for our monthly newsletter and receive malware analysis reports, cybersecurity threat updates, and tutorials at https://newsletter.uber-techie.co.uk.

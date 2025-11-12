@@ -1,0 +1,29 @@
+ Humans as Attack Vectors
+ https://tryhackme.com/room/humansattackvectors
+ 
+ What or who is the weakest link in cyber security?
+ Humans
+ 
+ What do attackers seek when targeting humans in a cyberattack?
+ access
+ 
+ What is the name of an attack tactic that manipulates human psychology?
+ social engineering
+ 
+ Which social engineering method is about pretending to be someone else?
+ impersonation
+ 
+ Which process is aimed at preventing or reducing the chance of an attack?
+ Mitigation
+ 
+ Which mitigation measure is about training employees in cyber security?
+ Security awareness training
+ 
+ What flag did you receive after completing the "Employees at Risk" challenge?
+ THM{anyone_else_at_risk?}
+ 
+ What flag did you receive after completing the "Security Policy" challenge?
+ THM{human_protection_expert!}
+ 
+---
+If you found this useful, sign up for our monthly newsletter and receive malware analysis reports, cybersecurity threat updates, and tutorials at https://newsletter.uber-techie.co.uk.

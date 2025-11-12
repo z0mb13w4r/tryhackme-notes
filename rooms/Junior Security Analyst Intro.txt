@@ -1,0 +1,17 @@
+Junior Security Analyst Intro
+https://tryhackme.com/room/jrsecanalystintrouxo
+
+Which team do you work with as a Junior Security Analyst?
+SOC
+
+What was the malicious IP address in the alerts?
+221.181.185.159
+
+To whom did you escalate the alert with the malicious IP?
+Will Griffin
+
+What message did you get after blocking the IP address on the firewall?
+THM{until-we-meet-again}
+
+---
+If you found this useful, sign up for our monthly newsletter and receive malware analysis reports, cybersecurity threat updates, and tutorials at https://newsletter.uber-techie.co.uk.
