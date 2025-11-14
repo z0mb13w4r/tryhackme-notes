@@ -1,0 +1,53 @@
+Retracted
+https://tryhackme.com/room/retracted
+
+What is the full path of the text file containing the "message"?
+C:\Users\Sophie\Desktop\SOPHIE.txt
+
+What program was used to create the text file?
+notepad.exe
+
+What is the time of execution of the process that created the text file?
+2024-01-08 14:25:30
+
+What is the filename of this "installer"?
+antivirus.exe
+
+What is the download location of this installer?
+C:\Users\Sophie\download
+
+The installer encrypts files and then adds a file extension to the end of the file name. What is this file extension?
+.dmp
+
+The installer reached out to an IP. What is this IP?
+10.10.8.111
+
+The threat actor logged in via RDP right after the “installer” was downloaded. What is the source IP?
+10.11.27.46
+
+This other person downloaded a file and ran it. When was this file run?
+2024-01-08 14:24:18
+
+After seeing the ransomware note, Sophie ran out and reached out to you for help.
+3
+
+Sophie downloaded the malware and ran it.
+1
+
+After all the files are restored, the intruder left the desktop telling Sophie to check her Bitcoin.
+6
+
+The intruder realized he infected a charity organization. He then downloaded a decryptor and decrypted all the files.
+5
+
+The downloaded malware encrypted the files on the computer and showed a ransomware note.
+2
+
+While Sophie was away, an intruder logged into Sophie's machine via RDP and started looking around.
+4
+
+Sophie and I arrive on the scene to investigate. At this point, the intruder was gone.
+7
+
+---
+If you found this useful, sign up for our monthly newsletter and receive malware analysis reports, cybersecurity threat updates, and tutorials at https://newsletter.uber-techie.co.uk.
