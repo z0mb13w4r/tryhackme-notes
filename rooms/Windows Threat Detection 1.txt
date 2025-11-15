@@ -1,0 +1,55 @@
+Windows Threat Detection 1
+https://tryhackme.com/room/windowsthreatdetection1
+
+Which MITRE technique ID describes Initial Access via a vulnerable mail server?
+T1190
+
+Which Initial Access method relies on a user opening a malicious email attachment?
+Phishing
+
+Which user seems to be most actively brute-forced by botnets?
+Administrator
+
+Which IP managed to breach the host via RDP (Logon Type 10)?
+203.205.34.107
+
+Can you get the real Workstation Name (hostname) of the threat actor?
+DESKTOP-QNBC4UU
+
+Let's play the role of the untrained user and mindlessly open the COM file.
+Run the www.zoom.com file from the Phishing Case 1 folder, which flag do you get?
+THM{misleading_extension}
+
+Continue with the second attachment from the Phishing Case 2 folder.
+From which URL does the malicious LNK download the next stage malware?
+http://wp16.hqywlqpa.thm:8000/cgi-bin/f
+
+Finally, move on to the Phishing Case 3 folder and review its content.
+What is the name of the double-extension file you see there?
+best-cat.jpg.exe
+
+Which file did the user download via the web browser?
+\Users\Administrator\Downloads\top-cats.zip
+
+In which folder did the user unarchive the suspicious file?
+C:\Users\Administrator\Pictures
+
+What is the process ID of the launched phishing malware?
+5484
+
+Finally, which malicious domain did the malware try to connect to?
+rjj.store
+
+Which USB file was launched by the user?
+E:\Open Sandisk 4GB USB.exe
+
+Which suspicious file did the malware drop to the disk?
+(Format: full path to the file, e.g. C:\file.txt)
+C:\Users\Public\Documents\winupdate.exe
+
+To which other USB did the malware propagate?
+(Format: just the letter, e.g. X:)
+F:
+
+---
+If you found this useful, sign up for our monthly newsletter and receive malware analysis reports, cybersecurity threat updates, and tutorials at https://newsletter.uber-techie.co.uk.
