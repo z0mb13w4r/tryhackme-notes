@@ -1,0 +1,56 @@
+IP and Domain Threat Intel
+https://tryhackme.com/room/ipanddomainthreatintel
+
+From the downloadable report, what are the IP addresses for the A Record associated with our flagged domain, advanced-ip-sccanner[.]com?
+172.67.189.143,104.21.9.202
+
+What nameserver addresses are associated with the IP address?
+jaziel[.]ns[.]cloudflare[.]com, summer[.]ns[.]cloudflare[.]com
+
+Open client.rdap.org and identify when the 64[.]31[.]63[.]194 IP was logged for registration.
+12/27/2010, 3:51:03 PM
+
+What roles are assigned to the entity Entity NOC2791-ARIN associated with the IP address 64[.]31[.]63[.]194?
+administrative,technical
+
+What is the country's name for the IP 64[.]31[.]63[.]194?
+France
+
+Can you identify the Autonomous System linked with the IP 64[.]31[.]63[.]194?
+AS136258
+
+Using shodan.io, find which service is primarily associated with the IP address 85[.]188[.]1[.]133.
+ftp
+
+How many ports have been identified as open on the server?
+6
+
+Using search.censys.io, identify the TLS certificate fingerprint for the IP address.
+48d6057099841bd18809fd61aa990b17779176de7799f301dac24879da553456
+
+According to crt.sh, are there Certificate Transparency log entries captured associated with the TLS certificate identified above?
+Yay
+
+What file has been linked to the IP 166[.]1.160[.]118?
+ff4c287c60ede1990442115bddd68201d25a735458f76786a938a0aa881d14ef.exe
+
+What organisation is identified on historical WHOIS lookups?
+Ace Data Centers, Inc
+
+What is the RIR associated with 170[.]130[.]202[.]134?
+ARIN
+
+What ASN is the IP connected with?
+AS62904
+
+Identify the number of NS records for the domain santagift[.]shop.
+4
+
+Which NS is identified as the Start of Authority (SOA) for the domain?
+ns-298.awsdns-37.com
+
+When was the domain registered?
+30/10/2022
+
+---
+If you found this useful, sign up for our monthly newsletter and receive malware analysis reports, cybersecurity threat updates, and tutorials at https://newsletter.uber-techie.co.uk.
