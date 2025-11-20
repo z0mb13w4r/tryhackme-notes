@@ -1,0 +1,17 @@
+Frank & Herby make an app
+https://tryhackme.com/room/frankandherby
+
+What port has a webpage frank was able to stand up?
+31337
+
+What did frank leave exposed on the site?
+.git-credentials
+
+What is the user.txt flag?
+THM{F@nkth3T@nk}
+
+What is the root.txt flag? 
+THM{M1cr0K8s_13_FUN}
+
+---
+If you found this useful, sign up for our monthly newsletter and receive malware analysis reports, cybersecurity threat updates, and tutorials at https://newsletter.uber-techie.co.uk.
