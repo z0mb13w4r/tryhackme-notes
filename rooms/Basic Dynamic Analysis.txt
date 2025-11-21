@@ -1,0 +1,41 @@
+Basic Dynamic Analysis
+https://tryhackme.com/room/basicdynamicanalysis
+
+If an analyst wants to analyze Linux malware, what OS should their sandbox's Virtual Machine have?
+Linux
+
+Monitor the sample ~Desktop\Samples\1.exe using ProcMon. This sample makes a few network connections. What is the first URL on which a network connection is made?
+94-73-155-12.cizgi.net.tr:2448
+
+What network operation is performed on the above-mentioned URL?
+TCP Reconnect
+
+What is the name with the complete full path of the first process created by this sample?
+C:\Users\Administrator\Desktop\samples\1.exe
+
+The sample ~Desktop\samples\1.exe creates a file in the C:\ directory. What is the name with the full path of this file?
+C:\myapp.exe
+
+What API is used to create this file?
+CreateFileA
+
+What API call was used to make this connection?
+InternetConnectW
+
+Can you look at the API calls and see what API call might be responsible for it?
+Sleep
+
+What is the name of the first Mutex created by the sample ~Desktop\samples\1.exe?
+\Sessions\X\BaseNamedObjects\SMX:XXXX:XXX:WilStaging_XX
+
+Is the file signed by a known organization?
+N
+
+Is the process in the memory the same as the process on disk?
+N
+
+There is a registry value added that contains the path of the sample in the format HKU\S-X-X-XX-XXXXXXXXXX-XXXXXXXXXX-XXXXXXXX-XXX\. What is the path of that value after the format mentioned here?
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store\C:\Users\Administrator\Desktop\samples\3.exe
+
+---
+If you found this useful, sign up for our monthly newsletter and receive malware analysis reports, cybersecurity threat updates, and tutorials at https://newsletter.uber-techie.co.uk.
